@@ -1,0 +1,21 @@
+{
+  "name": "workshopJs",
+  "version": "0.0.1",
+  "description": "Awesome project",
+  "main": "Gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "gulp-connect": "^2.2.0"
+  },
+  "devDependencies": {
+    "dyson": "^0.4.0",
+    "gulp": "^3.8.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sergicollado@gmail.com",
+  "license": "ISC"
+}
